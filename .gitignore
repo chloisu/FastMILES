@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow .zip files
+!*.zip
+!*.gitignore
+!*Readme.md
+!*LICENSE
+!*COPYRIGHT
